@@ -25,11 +25,7 @@ Plots are provided for visualization only.
 
 ## 1. Mid-Side Core (`mid_side_core`)
 
-![Image](https://www.nexperia.com/dam/jcr%3Ab82d07fb-ccce-474c-8ddb-e4b67d226e00/ON_OFF%20trajectories.png)
-
-![Image](https://cdn.shopify.com/s/files/1/0970/0050/files/image1_21563439-e670-4795-8cfc-4055263ce134.jpg?v=1588175257)
-
-![Image](https://content.app-sources.com/s/06727504232276735/uploads/Blog_Post_Images/1.2-5867504.jpg?format=webp)
+![Mid-Side Core Simulation](./tb_data_midside_core.png)
 
 **What is verified:**
 
@@ -50,11 +46,7 @@ Plots are provided for visualization only.
 
 ## 2. Mid-Side Inverse (`mid_side_inverse`)
 
-![Image](https://www.mdpi.com/applsci/applsci-13-07214/article_deploy/html/images/applsci-13-07214-g008-550.jpg)
-
-![Image](https://www.mdpi.com/applsci/applsci-13-07214/article_deploy/html/images/applsci-13-07214-g005b-550.jpg)
-
-![Image](https://www.mdpi.com/applsci/applsci-13-07214/article_deploy/html/images/applsci-13-07214-g009-550.jpg)
+![Mid-Side Inverse Simulation](./tb_data_midside_inverse.png)
 
 **What is verified:**
 
@@ -81,11 +73,7 @@ Plots are provided for visualization only.
 
 ## 3. AXI Wrapper Integration (`midside_axis_wrapper`)
 
-![Image](https://xilinx.file.force.com/servlet/servlet.ImageServer?id=0152E000003pLEt&oid=00D2E000000nHq7)
-
-![Image](https://pubs.acs.org/cms/10.1021/acs.jpcc.4c05821/asset/images/medium/jp4c05821_0003.gif)
-
-![Image](https://dl.acm.org/cms/10.1145/3552521/asset/cf763ab3-fc25-484b-956d-3f930da53cff/assets/images/medium/trets-2022-0023-f04.jpg)
+![AXI Wrapper Simulation](./tb_data_midside_axis.png)
 
 **What is verified:**
 
