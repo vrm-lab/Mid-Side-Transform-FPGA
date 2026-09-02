@@ -11,6 +11,16 @@ The module is designed for continuous real-time audio streaming, not block-based
 
 ---
 
+## Motivation
+
+This project was developed as part of a broader exploration of FPGA-based stereo audio processing.
+
+The Mid-Side transform provides a relatively simple mathematical operation but is useful for studying stereo signal representation, reversible transformations, fixed-point arithmetic, and the implementation of continuous streaming datapaths in hardware.
+
+The project was also intended to serve as a reusable building block for more complex stereo processing architectures.
+
+---
+
 ## Overview
 
 This module implements a **Mid-Side transform pair** for stereo audio processing.
